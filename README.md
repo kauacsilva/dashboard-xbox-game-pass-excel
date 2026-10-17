@@ -93,7 +93,6 @@ O objetivo é transformar a base de assinaturas em respostas rápidas e visuais 
 
 ![Dashboard Xbox Game Pass Subscriptions Sales](images/dashboard.png)
 
-*Captura de tela do dashboard. Adicione o arquivo em `images/dashboard.png`.*
 
 ## Como utilizar
 
